@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "WindowsForms.slnx",
+    "projects": [
+      "WindowsForms\\WindowsForms.csproj"
+    ]
+  }
+}
